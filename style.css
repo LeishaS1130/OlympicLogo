@@ -1,0 +1,25 @@
+body{
+    background-image: url("bg1.webp");
+    background-position: center;
+    background-size: cover;
+    background-position-y: -70px;
+}
+
+h1{
+    font-family:monospace;
+    font-style:italic;
+    font-size:40px;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+marquee{
+    background-image: linear-gradient(to right bottom, #ffeacf, #cbd2ad, #8ebb9d, #4ea19c, #00839e);
+    margin-top: -5px;
+    padding: 15px;
+    border-radius: 15px;
+    border-style:inset;
+    border-width: 7px;
+    border-image: linear-gradient(to right bottom, #ffeacf, #cbd2ad, #8ebb9d, #4ea19c, #00839e);
+}
